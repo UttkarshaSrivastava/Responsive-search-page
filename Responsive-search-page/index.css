@@ -1,0 +1,75 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+/* Background image */
+#title{
+    background-image: linear-gradient(transparent, #110a0ae4),url(Images4C/Image1.jpg);
+    background-repeat:no-repeat;
+    background-size:cover;
+}
+.logo{
+    padding:5px 15px 5px;
+}
+/* Big logo */
+.big-logo{
+    background-color:#fff;
+    padding:20px 40px 20px;
+    border-radius:100%;
+    font-size:70px;
+}
+.big-logo-p{
+    padding:80px;
+}
+/* input */
+.select-box{
+    width:245px;
+    height:60px;
+    border:0px;
+    border-radius:0px;
+}
+.Search-input{
+    width:477px;
+    height:60px;
+    border:0px;
+    border-radius:0px;
+}
+.Search-input-container{
+    margin-left:0px;
+    margin-right:0px;
+    margin-top: -59px;
+}
+/* Quick Search */
+.Quick-search-headline{
+    font-size:30px;
+    color:#192F60;
+}
+.text-muted{
+    color:#8C96AB;
+}
+.text-muted-1{
+    margin: 10px 0;
+    font-size: 18px;
+    color:#8C96AB;
+}
+.Meals-headline{
+    color:#192F60;
+    font-size:18px;
+}
+.meals-details{
+    width:130px;
+}
+.card-shadow{
+  /* box-shadow: 0px 3px 6px #00000029; */
+    box-shadow: 10px 20px 15px rgb(201 184 184);
+}
+
+.Quick-section{
+/* padding:48px 113px 33px; */
+/* display:flex;
+flex-wrap:wrap; */
+padding: 5px 110px 30px;
+justify-content:space-between; 
+}
+
+
